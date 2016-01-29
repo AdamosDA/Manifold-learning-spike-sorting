@@ -2,6 +2,7 @@
 **Source code for the tutorial on how to use low-dimensional embedding (i.e. ISOMAP algorithm) for feature extraction in spike sorting**
 
 **A short Intro**
+
 Background noise and spike overlap pose problems in contemporary spike-sorting strategies. The (non-linear) isometric feature mapping (ISOMAP) technique reveals the intrinsic data structure and helps identifying active neurons.
 
 To reproduce this tutorial in MATLAB you will need :
