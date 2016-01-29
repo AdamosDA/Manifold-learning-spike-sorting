@@ -12,7 +12,7 @@ Background noise and spike overlap pose problems in contemporary spike-sorting s
 
 To reproduce this tutorial in MATLAB you will need :
 
-1. The included ISOMAP source code for MATLAB (for more information and updated version [see here](http://isomap.stanford.edu)
+1. The included ISOMAP source code for MATLAB (for more information and updated version [see here](http://isomap.stanford.edu) )
 
 2. Memo script for MATLAB and sample data to reproduce the results shown in the tutorial.
 
