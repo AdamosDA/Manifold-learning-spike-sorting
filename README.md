@@ -23,6 +23,6 @@ To reproduce this tutorial in MATLAB you will need :
 
 For further details and to cite this work, see:
 
-**Adamos DA**, Laskaris NA, Kosmidis EK, Theophilidis G. “[NASS: an empirical approach to spike sorting with overlap resolution based on a hybrid noise-assisted methodology](http://dx.doi.org/10.1016/j.jneumeth.2010.04.018)“. Journal of Neuroscience Methods 2010, vol. 190(1), pp.129-142. |  
+**Adamos DA**, Laskaris NA, Kosmidis EK, Theophilidis G. “[NASS: an empirical approach to spike sorting with overlap resolution based on a hybrid noise-assisted methodology](http://dx.doi.org/10.1016/j.jneumeth.2010.04.018)“. Journal of Neuroscience Methods 2010, vol. 190(1), pp.129-142.  
 
 For more information on spike sorting algorithms see: [http://neurobot.bio.auth.gr/spike-sorting](http://neurobot.bio.auth.gr/spike-sorting)
