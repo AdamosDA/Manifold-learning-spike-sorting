@@ -5,13 +5,17 @@
 
 Background noise and spike overlap pose problems in contemporary spike-sorting strategies. The (non-linear) isometric feature mapping (ISOMAP) technique reveals the intrinsic data structure and helps identifying active neurons.
 
+[Isomap is a Nonlinear dimensionality reduction method](https://en.wikipedia.org/wiki/Isomap), used for computing a quasi-isometric, low-dimensional embedding of a set of high-dimensional data points. The algorithm provides a simple method for estimating the intrinsic geometry of a data manifold based on a rough estimate of each data point’s neighbors on the manifold. Isomap is highly efficient and generally applicable to a broad range of data sources and dimensionalities.
+
+[The tutorial is available here](http://neurobot.bio.auth.gr/2013/using-isomap-algorithm-for-feature-extraction-in-spike-sorting). Therein, simulated spikes from 3 neurons, one being a sparsely-firing one, are used.
+
+
 To reproduce this tutorial in MATLAB you will need :
 
 1. The included ISOMAP source code for MATLAB (for more information and updated version [see here](http://isomap.stanford.edu)
 
 2. Memo script for MATLAB and sample data to reproduce the results shown in the tutorial.
 
-[The tutorial is available here](http://neurobot.bio.auth.gr/2013/using-isomap-algorithm-for-feature-extraction-in-spike-sorting)
 
 **Notes**
 - Changing the ‘k’ value will affect the output of the algorithm, i.e. projecting the data in ISOMAP space. 
