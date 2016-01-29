@@ -11,11 +11,12 @@ To reproduce this tutorial in MATLAB you will need :
 
 2. Memo script for MATLAB and sample data to reproduce the results shown in the tutorial.
 
-[The tutorial is available here](http://neurobot.bio.auth.gr)
+[The tutorial is available here](http://neurobot.bio.auth.gr/2013/using-isomap-algorithm-for-feature-extraction-in-spike-sorting)
 
 **Notes**
 - Changing the ‘k’ value will affect the output of the algorithm, i.e. projecting the data in ISOMAP space. 
 - Projection coordinates are kept in ‘Y’. ‘R’ denotes residual variance.
+
 For further details and to cite this work, see:
 
 **Adamos DA**, Laskaris NA, Kosmidis EK, Theophilidis G. “[NASS: an empirical approach to spike sorting with overlap resolution based on a hybrid noise-assisted methodology](http://dx.doi.org/10.1016/j.jneumeth.2010.04.018)“. Journal of Neuroscience Methods 2010, vol. 190(1), pp.129-142. |  
